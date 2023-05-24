@@ -1,0 +1,20 @@
+#imgIncono{
+    width: 150px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+}
+#imgCarrito{
+    width: 50px;
+}
+#contador{
+    border-radius: 50%;
+    background-color: red;
+    color:white;
+    width: 20px;
+    text-align: center;
+    margin-left: 50px;
+}
